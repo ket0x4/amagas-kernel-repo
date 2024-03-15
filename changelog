@@ -1,6 +1,6 @@
 Kernel Features:
 - Based on AOSPA Uvite(14)
-- Wgireguard kernel module
+- Wireguard kernel module
 - KernelSU
 - Retard blocker
 - SusFS
