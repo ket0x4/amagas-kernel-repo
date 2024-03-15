@@ -1,21 +1,21 @@
-Kernel Features:
+**Kernel Features:**
 - Based on AOSPA Uvite(14)
 - Wireguard kernel module
 - KernelSU
 - Retard blocker
-- SusFS
+- [SusFS](https://github.com/forkposix/amagas_kernel_lemonade/commit/c5f7bf01d9ca18d9dcc5e84960173a17117dd792)
 
-V3.4
+**V3.4**
 - Added SusFS
 - Clang 18.0.0
 
-v3.3
+**v3.3**
 - Merge uvite into amagas
 
-v3.2
+**v3.2**
 - Update kernel su: 11563
 
-3.1
+**3.1**
 - Clang 17.0.4
 - AOSPA kernel fork
 - Wg + Ksu (11552)
