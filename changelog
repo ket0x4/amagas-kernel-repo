@@ -1,13 +1,15 @@
 **Kernel Features:**
-- Based on AOSPA Uvite(14)
-- Wireguard kernel module
-- KernelSU
-- Retard blocker
+- [Based on AOSPA](https://github.com/AOSPA/android_kernel_oneplus_sm8350)
+- [Wireguard kernel module](https://www.wireguard.com/)
+- [KernelSU](https://kernelsu.org/)
+- [Retard blocker](https://github.com/forkposix/amagas_kernel_lemonade/commit/6cf484f4687b17d5b64489e22f1fe5d51518a0d9)
 - [SusFS](https://github.com/forkposix/amagas_kernel_lemonade/commit/c5f7bf01d9ca18d9dcc5e84960173a17117dd792)
 
 **V3.4**
-- Added SusFS
+- Added [SusFS](https://github.com/forkposix/amagas_kernel_lemonade/commit/c5f7bf01d9ca18d9dcc5e84960173a17117dd792)
 - Clang 18.0.0
+
+[Full Changelog](https://github.com/forkposix/amagas_kernel_lemonade/compare/v3.3...v3.4)
 
 **v3.3**
 - Merge uvite into amagas
