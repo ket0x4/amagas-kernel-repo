@@ -1,0 +1,24 @@
+Kernel Features:
+- Based on AOSPA Uvite(14)
+- Wgireguard kernel module
+- KernelSU
+- Retard blocker
+- SusFS
+
+V3.4
+- Added SusFS
+- Clang 18.0.0
+
+v3.3
+- Merge uvite into amagas
+
+v3.2
+- Update kernel su: 11563
+
+3.1
+- Clang 17.0.4
+- AOSPA kernel fork
+- Wg + Ksu (11552)
+- Retard Blocker Rewrite
+- Tested on AOSPA-14 (uvite beta 3)
+- Play integrity works fine.
