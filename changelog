@@ -5,6 +5,9 @@
 - [Retard blocker](https://github.com/forkposix/amagas_kernel_lemonade/commit/6cf484f4687b17d5b64489e22f1fe5d51518a0d9)
 - [SusFS](https://github.com/forkposix/amagas_kernel_lemonade/commit/c5f7bf01d9ca18d9dcc5e84960173a17117dd792)
 
+**V3.6**
+- Merge uvite into amagas
+
 **V3.5**
 - Update KSU version to 11682
 - Added more pubgm packages to RetardBlocker
