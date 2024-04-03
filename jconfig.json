@@ -1,7 +1,7 @@
 {
   "kernel": {
     "name": "Amagas",
-    "version": "3.5",
+    "version": "3.6",
     "link": "https://github.com/forkposix/amagas_kernel_lemonade/releases/download/v3.6/amagas-kernel-f413d368ec0a-signed.zip",
     "changelog_url": "https://raw.githubusercontent.com/ket0x4/amagas-kernel-repo/main/changelog",
     "date": "2024-04-03",
