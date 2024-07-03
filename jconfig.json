@@ -1,11 +1,11 @@
 {
   "kernel": {
     "name": "Amagas",
-    "version": "3.7",
-    "link": "https://github.com/forkposix/amagas_kernel_lemonade/releases/download/v3.7/amagas-kernel-b101003163e8-signed.zip",
+    "version": "3.8",
+    "link": "https://github.com/forkposix/amagas_kernel_lemonade/releases/download/v3.8/amagas-kernel-bbc859747361-signed.zip",
     "changelog_url": "https://raw.githubusercontent.com/ket0x4/amagas-kernel-repo/main/changelog",
-    "date": "2024-04-14",
-    "sha1": "e382ea919ffc58dac8ff0ba787c262a2729ad91d"
+    "date": "2024-05-26",
+    "sha1": "97169DD53B10DA77781DE5CFF31EA44EDC548070"
   },
   "support": {
     "link": "https://t.me/Harambe1337"
